@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sandwich</string>
+    <string name="submit">Submit</string>
+    <string name="add_sandwich">Add Sandwich</string>
+    <string name="sandwich_exists">Sandwich Already exists</string>
+    <string name="enter_sandwich_name">Enter Sandwich Name</string>
+    <string name="name_sandwich">Name Sandwich</string>
+    <string name="sandwich_name">Sandwich Name</string>
+</resources>
